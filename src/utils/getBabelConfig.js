@@ -31,7 +31,7 @@ module.exports = function getBabelConfig(cwd: string) {
         process.env.NODE_ENV === 'production'
           ? []
           : [
-              require.resolve('react-hot-loader/babel'),
+              // require.resolve('react-hot-loader/babel'),
               require.resolve('../hot/babelPlugin'),
             ]
       )
