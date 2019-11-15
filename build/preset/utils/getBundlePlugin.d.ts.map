@@ -1,0 +1,1 @@
+{"version":3,"file":"getBundlePlugin.d.ts","sourceRoot":"","sources":["../../../src/preset/utils/getBundlePlugin.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,SAAS,CAAC;AAG9B,OAAO,EAAE,UAAU,EAAE,sBAAsB,EAAE,MAAM,oBAAoB,CAAC;AAExE,MAAM,CAAC,OAAO,UAAU,eAAe,CACrC,GAAG,EAAE,UAAU,EACf,YAAY,EAAE,sBAAsB,GACnC,OAAO,CAAC,MAAM,CAiBhB"}
